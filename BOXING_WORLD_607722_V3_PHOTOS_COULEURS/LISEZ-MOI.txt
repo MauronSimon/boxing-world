@@ -1,0 +1,9 @@
+BOXING WORLD — Classe 607722
+Laura Mauron et Jovana Jakimovski
+
+1. Ouvrez index.html dans un navigateur.
+2. Gardez les fichiers HTML, style.css et script.js dans le même dossier.
+3. Pour publier sur GitHub Pages : créez un dépôt public, ajoutez tous les fichiers à la racine, puis Settings > Pages > Deploy from a branch > main > /(root) > Save.
+4. Testez les six pages, les schémas, le menu mobile et les sources avant de remettre le lien au professeur.
+
+VERSION V3 : photographies réelles (chargement en ligne), palette enrichie, flèches SVG et parcours mobile corrigés. Vérifier les photos avec connexion Internet avant publication.
