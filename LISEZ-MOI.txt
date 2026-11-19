@@ -1,2 +1,1 @@
-BOXING WORLD V5 — 607722
-Ouvrir index.html. Les schémas 4 et 5 reprennent les attentes et définitions des deux supports Konvink fournis. Les exemples liés à la boxe sont des adaptations pédagogiques. Les sources figurent sous les schémas et les photos. Déposer les fichiers du dossier à la racine du dépôt GitHub.
+BOXING WORLD V7 — base V5, favicon gant de boxe, bandeau du schéma 5 bleu, sources photographiques détaillées, page Sources avec correspondance des pages. Décompresser et transférer les fichiers à la racine du dépôt GitHub. Ne pas envoyer le ZIP directement.
