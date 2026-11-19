@@ -19,3 +19,12 @@ body{background:radial-gradient(circle at 100% 12%,#17294a 0,transparent 36%),va
 .v5-form-card{background:#185b93!important;border-top-color:#7cc4f3}
 .v5-form-card:before{color:#86b9e1}
 .source-map{width:100%;border-collapse:collapse;margin:20px 0}.source-map th,.source-map td{padding:12px;border-bottom:1px solid #33445b;text-align:left;vertical-align:top}.source-map th{color:#fff;background:#183250}.source-map td{color:#d4dfeb}.source-map a{color:#8dc9ff}.source-map small{display:block;color:#9eb2ca;margin-top:5px}.source-note{color:#aabbd0;font-size:.82rem;margin:5px 0 15px}
+
+
+.page-sources{background:#121b2a;border-top:1px solid #304158;padding:36px 0 44px}
+.page-sources h2{font-size:clamp(1.2rem,2.5vw,1.65rem);margin:0 0 10px}
+.page-sources-intro{font-size:.9rem;color:#bdc8d9;margin:8px 0 14px}
+.page-sources-list{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,270px),1fr));gap:9px 22px;padding:0;list-style:none;margin:0 0 15px}
+.page-sources-list li{padding:9px 12px;border:1px solid #34475e;border-radius:9px;background:#1a2940}
+.page-sources-list a{color:#a9d9ff;text-decoration:underline;text-underline-offset:3px;overflow-wrap:anywhere}
+.page-sources-list a:hover{color:#fff}
