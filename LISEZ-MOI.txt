@@ -1,4 +1,2 @@
 BOXING WORLD V5 — 607722
 Ouvrir index.html. Les schémas 4 et 5 reprennent les attentes et définitions des deux supports Konvink fournis. Les exemples liés à la boxe sont des adaptations pédagogiques. Les sources figurent sous les schémas et les photos. Déposer les fichiers du dossier à la racine du dépôt GitHub.
-
-V6 : nouvelle palette bleu pétrole / turquoise / corail ; sources des photos directement liées aux fichiers image originaux Pexels et Unsplash.
