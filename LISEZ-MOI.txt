@@ -1,11 +1,2 @@
-BOXING WORLD — Classe 607722
-Laura Mauron et Jovana Jakimovski
-
-1. Ouvrez index.html dans un navigateur.
-2. Gardez les fichiers HTML, style.css et script.js dans le même dossier.
-3. Pour publier sur GitHub Pages : créez un dépôt public, ajoutez tous les fichiers à la racine, puis Settings > Pages > Deploy from a branch > main > /(root) > Save.
-4. Testez les six pages, les schémas, le menu mobile et les sources avant de remettre le lien au professeur.
-
-VERSION V3 : photographies réelles (chargement en ligne), palette enrichie, flèches SVG et parcours mobile corrigés. Vérifier les photos avec connexion Internet avant publication.
-
-Version V4 : sources au bas de chaque page, schémas 4 et 5 refaits d’après les photos Konvink. Publier tous les fichiers à la racine de GitHub Pages.
+BOXING WORLD V5 — 607722
+Ouvrir index.html. Les schémas 4 et 5 reprennent les attentes et définitions des deux supports Konvink fournis. Les exemples liés à la boxe sont des adaptations pédagogiques. Les sources figurent sous les schémas et les photos. Déposer les fichiers du dossier à la racine du dépôt GitHub.
