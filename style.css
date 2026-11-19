@@ -43,3 +43,6 @@ body{background:radial-gradient(circle at 100% 12%,#17294a 0,transparent 36%),va
 .quiz .quiz-step.is-current{outline:2px solid #9abddd;outline-offset:2px}
 .quiz .quiz-step:disabled{cursor:default}
 .quiz-help{font-size:.86rem;color:#b5c4d6;margin-top:14px}
+
+/* V12 : chiffres parfaitement centrés dans les carrés du quiz */
+.quiz .quiz-overview .quiz-step{display:flex!important;align-items:center!important;justify-content:center!important;text-align:center!important;box-sizing:border-box!important;width:36px!important;height:36px!important;min-width:36px!important;padding:0!important;line-height:1!important;vertical-align:middle!important;}
